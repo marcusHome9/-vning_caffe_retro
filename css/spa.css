@@ -9,6 +9,5 @@ main article {
   &:first-of-type:not(:has(~ :target)),
   &:target {
     display: block;
-    size: 100%;
   }
 }

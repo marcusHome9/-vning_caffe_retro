@@ -2,8 +2,9 @@ header{
     
     position: fixed;
     top: 0;
-    background-color: brown;
-    opacity: 0.5;
+
+background: rgba(165, 42, 42, 0.8);
+
     padding: 20px;
     display: flex;
     justify-content: space-around;
@@ -12,5 +13,7 @@ header{
         text-decoration: none;
         color: rgb(255, 255, 255);
         padding: 0 15px;
+        font-weight: bold;
     }
+
 }
