@@ -5,6 +5,8 @@ header{
     background-color: brown;
     opacity: 0.5;
     padding: 20px;
+    display: flex;
+    justify-content: space-around;
 
     a{
         text-decoration: none;

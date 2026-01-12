@@ -1,0 +1,14 @@
+main article {
+
+  /* Scroll to top instead of article */
+  scroll-margin-top: 200px;
+
+
+ height: 1000px;
+  /* Show first page by default OR the targeted page */
+  &:first-of-type:not(:has(~ :target)),
+  &:target {
+    display: block;
+    size: 100%;
+  }
+}
