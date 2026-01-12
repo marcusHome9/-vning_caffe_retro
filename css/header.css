@@ -1,0 +1,14 @@
+header{
+    
+    position: fixed;
+    top: 0;
+    background-color: brown;
+    opacity: 0.5;
+    padding: 20px;
+
+    a{
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        padding: 0 15px;
+    }
+}
