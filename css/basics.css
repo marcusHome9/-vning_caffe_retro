@@ -5,7 +5,7 @@ footer{
 }
 
 body {
-    background-color: aquamarine;
+
   /* 102px margin-top top compensate for fixed header */
   margin: 102px 0 0;
   /* But on small screen with hamburger menu the header is shorter */
